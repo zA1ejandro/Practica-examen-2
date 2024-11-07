@@ -1,0 +1,49 @@
+zA1ejandro
+/
+Practica-examen-2
+
+Type / to search
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+You now have push access to the zA1ejandro/Practica-examen-2 repository. 
+Owner avatar
+Practica-examen-2
+Public
+zA1ejandro/Practica-examen-2
+Go to file
+t
+Add file
+Folders and files
+Name		
+Latest commit
+zA1ejandro
+zA1ejandro
+Initial commit
+efb3436
+ · 
+6 minutes ago
+History
+.gitattributes
+Initial commit
+6 minutes ago
+Repository files navigation
+README
+Add a README
+Help people interested in this repository understand your project by adding a README.
+About
+No description, website, or topics provided.
+ Activity
+Stars
+ 0 stars
+Watchers
+ 1 watching
+Forks
+ 0 forks
+Report repository
